@@ -14,6 +14,6 @@ const singleNumber = (nums) => {
     }
   }
 
-  // return first element
+  // return first & filtered element
   return Array.from(memory)[0];
 };
