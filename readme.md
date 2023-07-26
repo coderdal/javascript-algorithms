@@ -5,4 +5,4 @@ This repository contains various algorithm problems and solutions in JavaScript.
 ### Sorular
 
 1. [Single Number](./0-single-number)
-   - [Çözüm](./0-single-number/solution.js)
+   - [Solution](./0-single-number/solution.js)
