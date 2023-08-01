@@ -2,11 +2,12 @@
 
 This repository contains various algorithm problems and solutions in JavaScript.
 
-### Sorular
+| Path     | Difficulty |
+| -------- | ------- |
+|   **./0**  | Easy    |
+|   **./1**  | Medium  |
+|   **./2**  | Hard    |
 
-1. [Single Number](./0-single-number)
-   - [Solution](./0-single-number/solution.js)
-2. [Palindrome Number](./0-palindrome-number)
-   - [Solution](./0-palindrome-number/solution.js)
-3. [Length Of Arguments](./0-length-of-arguments)
-   - [Solution](./0-length-of-arguments/solution.js)
+### Questions
+
+**...**
