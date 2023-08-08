@@ -14,6 +14,6 @@ Output: 5
 
 #### Example 2:
 
-Input: str = "   fly me   to   the moon  "
+Input: str = "&nbsp;&nbsp;&nbsp;fly me to the moon&nbsp;&nbsp;&nbsp;&nbsp;"
 
 Output: 4
